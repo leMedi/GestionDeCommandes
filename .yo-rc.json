@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "GestionDeCommandes",
+    "packageName": "projet.jee.gi.ensa",
+    "packageFolder": "projet/jee/gi/ensa",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "MGMxMDE5NWJmYTQ2MzljZWIwOTBjODk4ZDk3MzJlNDE2MzJjMDc0YjUxMzIwZGY1ODM2ODIzMDgwODhjZjA0NmM5OWY1YzAzNmQyNTVjYzY3MTJmNjJiYjNlMjU1MzgxZTZiM2FlYjBlOTMzOGY1ZDhmM2YxMzliM2I1MDYxYjk=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "mehdi-elhaij",
+  "repository-name": "GestionDeCommandes"
+}
